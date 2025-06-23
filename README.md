@@ -24,21 +24,21 @@ This project performs an in-depth exploratory data analysis (EDA) on the **"Two 
 
 ## 🔧 Operations Performed
 
-### ✅ Data Preprocessing
+### Data Preprocessing
 - Removed unnecessary columns and null entries
 - Handled duplicates and reset index
 - Converted data types for analysis
 
-### ✅ Feature Engineering
+### Feature Engineering
 - Extracted **event country** from event names
 - Calculated **athlete age** from birth year
 - Parsed performance time and cleaned average speed
 
-### ✅ Filtering
+### Filtering
 - Focused on races with distance `50km` or `50mi`
 - Analyzed year `2020` and country `USA` specifically
 
-### ✅ Visual Analysis *(suggested in project)*
+### Visual Analysis
 - Bar plots, histograms, line plots, heatmaps
 
 ---
@@ -47,8 +47,7 @@ This project performs an in-depth exploratory data analysis (EDA) on the **"Two 
 
 - Python (Jupyter Notebook)
 - Pandas, NumPy
-- Seaborn, Matplotlib
-- Regex, Datetime
+- Seaborn
 
 ---
 
@@ -75,7 +74,7 @@ jupyter notebook main.ipynb
 ## 📎 File Structure
 
 ```
-EDA-UM-Races/
+Exploratory Data Analysis/
 │
 ├── main.ipynb              # Jupyter notebook with full analysis
 ├── requirements.txt        # Dependencies
