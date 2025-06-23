@@ -51,26 +51,6 @@ This project performs an in-depth exploratory data analysis (EDA) on the **"Two 
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/EDA-UM-Races.git
-cd EDA-UM-Races
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Open the notebook
-```bash
-jupyter notebook main.ipynb
-```
-
----
-
 ## 📎 File Structure
 
 ```
